@@ -6,8 +6,6 @@ NoteNest is a free mobile-first web platform designed to help students easily sh
 
 ---
 
-## 🌐 Live Demo
-https://notenest.vercel.app
 
 ---
 
